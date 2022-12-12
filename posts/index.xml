@@ -13,11 +13,11 @@
 </item>
 <item>
     <title>大作业步骤</title>
-    <link>http://example.org/first_post/</link>
-    <pubDate>Sat, 10 Dec 2022 21:45:29 &#43;0800</pubDate>
+    <link>http://example.org/%E5%A4%A7%E4%BD%9C%E4%B8%9A%E6%AD%A5%E9%AA%A4/</link>
+    <pubDate>Mon, 12 Dec 2022 20:28:33 &#43;0800</pubDate>
     <author>Yanyanas</author>
-    <guid>http://example.org/first_post/</guid>
-    <description><![CDATA[1.连接git 如图所示，我用的是国内的gitee仓库。 如图所示，创建完仓库后在终端上输入以上命令即可。在创建完仓库后会给代码提示。 ![git log](..\static\git log.PNG) 如图]]></description>
+    <guid>http://example.org/%E5%A4%A7%E4%BD%9C%E4%B8%9A%E6%AD%A5%E9%AA%A4/</guid>
+    <description><![CDATA[1.连接git 如图所示，我用的是国内的gitee仓库。 如图所示，创建完仓库后在终端上输入以上命令即可。在创建完仓库后会给代码提示。 ![git log](/git log.PNG) 如图]]></description>
 </item>
 </channel>
 </rss>
